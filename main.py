@@ -82,4 +82,4 @@ async def test_embed(ctx):
 
 # Need to add embeds
 
-client.run("ODQ4NDk5NzE5NzQ2NzQ4NDM2.YLNg8Q.kDKKEC4aAS5lfCCuYq4AA7iIoak")
+client.run("ODQ4NDk5NzE5NzQ2NzQ4NDM2.YLNg8Q.aZc43TxZaKzQBzxX_zh6Vhpve6U")
